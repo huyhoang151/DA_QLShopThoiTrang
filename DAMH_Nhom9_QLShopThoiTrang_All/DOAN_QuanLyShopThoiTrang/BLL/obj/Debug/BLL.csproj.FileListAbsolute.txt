@@ -1,0 +1,42 @@
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb
+D:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+D:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+D:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+D:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+D:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+D:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb
+I:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+I:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+I:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+I:\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+I:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+I:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+I:\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.dll
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\BLL.pdb
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.dll
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\bin\Debug\DAL.pdb
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.dll
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\BLL\obj\Debug\BLL.pdb

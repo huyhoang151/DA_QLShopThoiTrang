@@ -1,0 +1,35 @@
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+G:\CongNghePhanMem\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
+D:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+D:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+D:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+D:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+D:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
+D:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\DOAN_QuanLyShopThoiTrang (1)\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+I:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+I:\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+I:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+I:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
+I:\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll.config
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.dll
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\bin\Debug\DAL.pdb
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.dll
+G:\CongNghePhanMem\3\DOAN_QuanLyShopThoiTrang\DAL\obj\Debug\DAL.pdb
